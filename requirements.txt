@@ -3,4 +3,14 @@ faiss-cpu
 langchain-community
 langchain-openai
 python-dotenv
+langchain-core
 pandas
+langchain-text-splitters
+openai
+tiktoken
+matplotlib
+huggingface
+langchain_huggingface
+sentence-transformers
+scikit-learn
+langchain-experimental

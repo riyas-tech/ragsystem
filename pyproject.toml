@@ -6,9 +6,19 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "faiss-cpu>=1.13.2",
+    "huggingface>=0.0.1",
     "langchain>=1.2.10",
     "langchain-community>=0.4.1",
+    "langchain-core>=1.2.17",
+    "langchain-experimental>=0.4.1",
+    "langchain-huggingface>=1.2.1",
     "langchain-openai>=1.1.10",
+    "langchain-text-splitters>=1.1.1",
+    "matplotlib>=3.10.8",
+    "openai>=2.24.0",
     "pandas>=3.0.1",
-    "python-dotenv>=1.2.1",
+    "python-dotenv>=1.2.2",
+    "scikit-learn>=1.8.0",
+    "sentence-transformers>=5.2.3",
+    "tiktoken>=0.12.0",
 ]
